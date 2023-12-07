@@ -1,5 +1,5 @@
 {
-  "name": "jk-css-test",
+  "name": "@jehankandy/jk-css-test",
   "version": "1.0.0",
   "description": "Testing CSS in NPM Packages",
   "main": "index.css",
