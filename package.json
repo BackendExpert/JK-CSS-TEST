@@ -1,0 +1,23 @@
+{
+  "name": "jk-css-test",
+  "version": "1.0.0",
+  "description": "Testing CSS in NPM Packages",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendExpert/JK-CSS-TEST.git"
+  },
+  "keywords": [
+    "TEST",
+    "CSS"
+  ],
+  "author": "@jehankandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackendExpert/JK-CSS-TEST/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/JK-CSS-TEST#readme"
+}
